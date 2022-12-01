@@ -1,10 +1,3 @@
-<div align="center">
-
-  <img src="./public/microverse_logo.png" alt="logo" width="100"  height="auto" />
-  <br/>
-
-</div>
-
 # 📖 Capstone-React-Redux <a name="about-project"></a>
 
 **Capstone-React-Redux** is  a project which is about building a mobile web application to check a list of metrics data (numeric values) from an API chosen using React and Redux.
@@ -41,7 +34,7 @@ The Loom video Link : https://www.loom.com/share/e4b38fb8217245fb94b363cb6f302a4
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [coronavirus metric webappp](https://coronavirus-metrics-webapp.netlify.app/)
+- https://chuaindia.github.io/capstone-react-redux/
 
 <!-- GETTING STARTED -->
 
