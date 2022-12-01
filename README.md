@@ -106,7 +106,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I give credit to Nelson Sakwa on Behance for the design which I followed for making this project.
+I give credit to **Nelson Sakwa on Behance** for the design which I followed for making this project.
 
 <!-- LICENSE -->
 
