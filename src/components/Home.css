@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+
 body {
   background-color: #d45586;
 }
@@ -8,7 +10,7 @@ table {
 }
 
 .Header {
-  font-family: monospace, sans-serif;
+  font-family: Lato, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color: white;
   text-align: center;
 }
@@ -37,7 +39,7 @@ table {
 
 td {
   color: white;
-  font-family: monospace, sans-serif;
+  font-family: Lato, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   padding-right: 6px;
   font-size: 1.2rem;
 }
