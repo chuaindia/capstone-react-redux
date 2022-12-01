@@ -1,0 +1,60 @@
+body {
+  background-color: #d45586;
+}
+
+table {
+  padding: 0;
+  border: 1px solid #989898;
+}
+
+.Header {
+  font-family: monospace, sans-serif;
+  color: white;
+  text-align: center;
+}
+
+.CoinContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.CoinContainer tr {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  height: 8.5rem;
+  align-items: flex-end;
+  justify-content: flex-end;
+  background-image: linear-gradient(0deg, rgba(208, 67, 121), rgba(255, 0, 0, 0.6)), url('images/bitcoin.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  border: 2px black;
+}
+
+.CoinContainer > tr {
+  flex: 50%;
+}
+
+td {
+  color: white;
+  font-family: monospace, sans-serif;
+  padding-right: 6px;
+  font-size: 1.2rem;
+}
+
+.price {
+  font-size: 0.8rem;
+}
+
+.arrow {
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+  margin-bottom: 50px;
+}
+
+.right {
+  transform: rotate(-35deg);
+  -webkit-transform: rotate(-45deg);
+}

@@ -1,0 +1,42 @@
+.Row {
+  display: flex;
+  flex-direction: column;
+  padding: 0.2rem;
+  margin: auto;
+  border: none;
+  justify-content: center;
+}
+
+.ArrowLeft {
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+}
+
+.ArrowContainer {
+  padding-left: 7px;
+}
+
+.ContainerCoins {
+  border: none;
+}
+
+table {
+  display: flex;
+  justify-content: center;
+  border: none;
+  padding-top: 2rem;
+}
+
+.Row td {
+  padding: 15px;
+  font-size: 20px;
+  font-family: monospace, sans-serif;
+}
+
+.Row td:nth-child(odd) {
+  background-color: #c8c8c8;
+}
