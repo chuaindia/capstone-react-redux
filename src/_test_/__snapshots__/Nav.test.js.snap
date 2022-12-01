@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<tr>
+  <td>
+    <a
+      href="/detail/:undefined"
+      onClick={[Function]}
+    >
+      <p
+        className="arrow-container"
+      >
+         
+        <i
+          className="arrow right"
+          label="but"
+          onClick={[Function]}
+          role="button"
+          tabIndex={0}
+        />
+      </p>
+    </a>
+  </td>
+  <td />
+  <td
+    className="price"
+  />
+</tr>
+`;
