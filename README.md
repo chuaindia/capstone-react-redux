@@ -38,7 +38,7 @@ I selected a CryptoCurrency API that provides numeric data about all popular cry
 
 ## Overview
 
-The Loom video Link : https://www.loom.com/share/e4b38fb8217245fb94b363cb6f302a44 
+The Loom video Link : https://www.loom.com/share/e4b38fb8217245fb94b363cb6f302a44
 
 <!-- LIVE DEMO -->
 
