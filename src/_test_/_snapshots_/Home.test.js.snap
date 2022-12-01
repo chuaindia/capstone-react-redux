@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="TableContainer"
+>
+  <div>
+    <h1
+      className="Header"
+    >
+      Crypto Currencies
+    </h1>
+  </div>
+  <table>
+    <div
+      className="CoinContainer"
+    />
+  </table>
+</div>
+`;
