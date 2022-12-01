@@ -44,7 +44,7 @@ The Loom video Link : https://www.loom.com/share/e4b38fb8217245fb94b363cb6f302a4
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- https://chuaindia.github.io/capstone-react-redux/
+- https://capstone-react-redux-chuaindia.netlify.app/
 
 <!-- GETTING STARTED -->
 
