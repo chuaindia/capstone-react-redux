@@ -3,8 +3,18 @@
 **Capstone-React-Redux** is  a project which is about building a mobile web application to check a list of metrics data (numeric values) from an API chosen using React and Redux.
 
 I selected a CryptoCurrency API that provides numeric data about all popular cryptocurrencies. The webapp had two pages:
-  - One page with a list of crptocurrencies. This page is the homepage.
-  - One page for each Cryptocurrency's details.
+
+  **-Home page :**
+
+1. When the page loads, the web app shows the list of categories that could be filtered out by some parameter, for example by the category name.
+2. Along with the category name, it will display some numeric values per category that come from the API.
+3. When the user clicks (or taps) on a category item, the application navigates to the details page.
+
+**-Details page**
+
+1. In the details page, the web app retrieves data from the API to show detailed data in the category.
+2. When the user clicks on the "Back" button (<), the user navigates to the home page.
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
